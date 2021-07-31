@@ -1,0 +1,21 @@
+{
+  "name": "bot-tutorial",
+  "version": "1.0.0",
+  "description": "Hello bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Snoozy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord-button": "^1.0.3",
+    "discord-button-pages": "^1.1.9",
+    "discord.js": "^12.4.1",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^4.9.0"
+  }
+}
