@@ -1,4 +1,4 @@
-// ODcwNjU0Njg5OTI1MDM4MTEw.YQP6Xg.MyJ4SVgUK65rkUijfS5FYvRL7Uo
+// token
 // asfhiabwegweg
 const Discord = require('discord.js') 
 const bot = new Discord.Client({ws: {intents: Discord.Intents.ALL}});
@@ -54,4 +54,4 @@ bot.on('guildMemberUpdate', (oldMember, newMember) => {
 })
 
 
-bot.login("ODcwNjU0Njg5OTI1MDM4MTEw.YQP6Xg.MyJ4SVgUK65rkUijfS5FYvRL7Uo")
+bot.login("token")
